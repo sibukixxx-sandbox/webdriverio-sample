@@ -1,0 +1,22 @@
+{
+  "name": "webdriverio-sample",
+  "version": "1.0.0",
+  "description": "webdriverio-sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibukixxx-sandbox/webdriverio-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sibukixxx-sandbox/webdriverio-sample/issues"
+  },
+  "homepage": "https://github.com/sibukixxx-sandbox/webdriverio-sample#readme",
+  "dependencies": {
+    "webdriverio": "^4.2.16"
+  }
+}
